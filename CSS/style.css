@@ -375,7 +375,7 @@ i {
     gap: 2rem;
     padding: 1.5rem 5%;
     background: rgba(255, 255, 255, 0.95);
-    box-shadow: 0 .5rem 1rem rgb(0, 0, 0, .08);
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .08);
 }
 
 .home-page .home-header__logo-area {
